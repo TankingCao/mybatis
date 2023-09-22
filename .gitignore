@@ -1,7 +1,9 @@
-target
-.idea
+target/
 test
 
 
 *.http
 *.class
+
+
+.idea
